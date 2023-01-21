@@ -1,2 +1,4 @@
 # Project-Lumos
-Creating visual magic with an LED strip
+
+Create mesmerizing illusions with animated LEDs
+Basically magic with an LED strip :)
